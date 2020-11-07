@@ -15,6 +15,8 @@ nvm 을 이용해서 node 버전을 관리하고 있다. 지금 v10.6.0을 이�
 다음 프로젝트에서는 아예 초기 설정부터 다 해보려고 하는데, 이번엔 일단 cra로 시작하려고 한다. \
 [참고자료](https://the-illusionist.me/77) \ 
 나중엔 [이렇게](https://jeonghwan-kim.github.io/dev/2019/06/25/react-ts.html) 초기구성부터 해봐야지. 
+`npx create-react-app toy-naver-tour  --template typescript`
+
 
 ### how to run
 inside `toy-naver-tour`
