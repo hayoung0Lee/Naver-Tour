@@ -5,7 +5,6 @@ https://flight.naver.com/flights/ 네이버 여행상품 사이트 리액트로 
 
 ## 리액트를 처음스크래치부터 필요한 라이브러리가 있다면 그걸 장착하는 것까지 해보는 프로젝트!! 
 (create-react-app을 사용하지 않고 해보겟습니다.)
-https://github.com/1ilsang/never-cloud
 
 ## NVM
 nvm 을 이용해서 node 버전을 관리하고 있다. 지금 v10.6.0을 이용하고 있는데 노드 버전을 업데이트 하려고 한다. [nvm 사용법](https://jeonghwan-kim.github.io/2016/08/10/nvm.html)
@@ -14,8 +13,11 @@ nvm 을 이용해서 node 버전을 관리하고 있다. 지금 v10.6.0을 이�
 다음 프로젝트에서는 아예 초기 설정부터 다 해보려고 하는데, 이번엔 일단 cra로 시작하려고 한다. \
 [참고자료](https://the-illusionist.me/77) \ 
 나중엔 [이렇게](https://jeonghwan-kim.github.io/dev/2019/06/25/react-ts.html) 초기구성부터 해봐야지. 
-`npx create-react-app toy-naver-tour  --template typescript`
+`npx create-react-app toy-naver-tour`
 
+
+## 프로젝트 진행 일지
+[diary](diary/README.md)
 
 ### how to run
 inside `toy-naver-tour`
